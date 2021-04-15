@@ -1,0 +1,137 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  padding: 0;
+  font-size: 250%;
+background-color: #6e7c7c;
+}
+.top {
+  position: relative;
+  padding-top: 215px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', serif;
+  padding-top: 140px;
+  background-image: linear-gradient(to right, blue, indigo, violet, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p {
+    font-family: 'Merriweather', serif;
+}
+
+
+.avatar {
+  background-color: white;
+}
+.profile {
+  padding-top: 30px;
+  display: inline-block;
+}
+h2 {
+  font-family: 'Sacramento', serif;
+  font-size: 180%;
+  background-image: linear-gradient(to right, blue,  violet, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h3 {
+  font-family: 'Merriweather', serif;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 25%;
+}
+.skills {
+  display: inline-block;
+  position: relative;
+}
+hr {
+  background-color: #6e7c7c;
+  border: none;
+  height: 1px;
+}
+.brackets {
+  height: 200px;
+  width: 200px;
+}
+
+.flaticons {
+  width: 100px;
+  height: 100px;
+  padding-top: 120px;
+}
+.skill-row {
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.html1 {
+  color: orange;
+}
+.CSS1 {
+  color: #09015f;
+}
+.JS1 {
+  color: yellow;
+}
+.React1 {
+  color: #0061a8;
+}
+.linkedin {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  right: 10px;
+  top: 10px;
+}
+.copyright {
+  font-size: 50%;
+}
+.twitter {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 12px;
+  right: 0;
+}
+.instagram {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+.e-mail {
+  width: 60px;
+  height: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 40px;
+}
+
+.normal {
+  background-image: linear-gradient(to right, blue, indigo, violet, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.skillset {
+  background-image: linear-gradient(to right, indigo, violet, yellow, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 100px;
+}
+.touch {
+  background-image: linear-gradient(to right, blue, indigo, violet, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
